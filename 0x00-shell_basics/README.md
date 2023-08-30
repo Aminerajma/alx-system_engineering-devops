@@ -6,3 +6,4 @@ what bash scripts do after dots :
 4-listmorefiles: Display current directory contents, including hidden files (starting with .). Use the long format.
 5-listfilesdigitonly: Display current directory contents with Long format and with user and group IDs displayed numerically and hidden files (starting with .)
 6-firstdirectory: create a directory named my_first_directory in the /tmp/ directory.
+7-movethatfile: Move the file betty from /tmp/ to /tmp/my_first_directory.
