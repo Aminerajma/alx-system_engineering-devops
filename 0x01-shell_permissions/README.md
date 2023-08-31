@@ -10,3 +10,4 @@ what bash scripts do after dots :
 8-James_Bond: set the permission to the file hello so gives user and group no permission and gives other all permissions.
 9-John_Doe: sets the mode of the file hello to this: -rwxr-x-wx .
 12-directory_permissions: create a directory called my_dir with permissions 751 in the working directory.
+13-change_group: change the group owner to school for the file hello. 
