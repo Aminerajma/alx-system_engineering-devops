@@ -8,3 +8,4 @@ what bash scripts do after dots :
 6-multiple_permissions: add execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 7-everybody: add execution permission to the owner, the group owner and the other users, to the file hello.
 8-James_Bond: set the permission to the file hello so gives user and group no permission and gives other all permissions.
+9-John_Doe: sets the mode of the file hello to this: -rwxr-x-wx .
